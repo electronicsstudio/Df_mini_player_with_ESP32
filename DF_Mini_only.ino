@@ -1,3 +1,9 @@
+/*
+Electronics Studio
+@file DF_Mini_only.ino
+@date  13-10-2024
+@url https://github.com/DFRobot/DFRobot_BMX16
+*/
 #include "DFRobotDFPlayerMini.h"
 #include <HardwareSerial.h>
 
